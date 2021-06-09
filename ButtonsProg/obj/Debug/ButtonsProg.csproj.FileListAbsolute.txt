@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\bin\Debug\ButtonsProg.exe.config
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\bin\Debug\ButtonsProg.exe
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\bin\Debug\ButtonsProg.pdb
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\obj\Debug\ButtonsProg.csprojAssemblyReference.cache
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\obj\Debug\App.g.cs
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\obj\Debug\ButtonsProg_MarkupCompile.cache
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\obj\Debug\ButtonsProg_MarkupCompile.lref
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\obj\Debug\ButtonsProg.g.resources
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\obj\Debug\ButtonsProg.Properties.Resources.resources
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\obj\Debug\ButtonsProg.csproj.GenerateResource.cache
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\obj\Debug\ButtonsProg.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\obj\Debug\ButtonsProg.exe
+C:\Users\student\source\repos\ButtonsProg\ButtonsProg\obj\Debug\ButtonsProg.pdb
